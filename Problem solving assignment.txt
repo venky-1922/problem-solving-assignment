@@ -1,0 +1,21 @@
+Problem:
+John is a recruiter in a company and wants to map candidates based on their location preferences.
+ Develop an algorithm to match candidates to the locations based on their preferences.
+
+Sub Problems:
+Number of candidates applied for the company?
+How many locations in which company is available?
+How many job vacancies are there? 
+Which locations have more vacancies?
+which locations have no vacancies?
+How to map the candidates to locations?
+Which algorithm is used to match candidates to the locations?
+
+
+Input :
+candidates and their location preferences
+vacancies for each location
+
+output:
+candidate and his location
+
