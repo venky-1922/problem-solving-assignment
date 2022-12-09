@@ -10,6 +10,7 @@ Which locations have more vacancies?
 which locations have no vacancies?
 How to map the candidates to locations?
 Which algorithm is used to match candidates to the locations? --Open hasing
+...
 
 
 
